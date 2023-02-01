@@ -1,5 +1,4 @@
 
-<p> Simple API latest movie fetch using Sage</p>
 
 <p align="center">
   <a href="https://roots.io/sage/">
